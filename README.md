@@ -9,6 +9,8 @@ nie są proporcjonalne do ich odległości.
   
 W aplikacji można przybliżać i przemieszczaś się po układie słonecznym za pomocą myszy.  
   
+Aplikacja dostępna webowo pod likiem podpiętym do repo.  
+  
 Uwagi:
 - Uwzględnony został także księżyc, który utrzymuje się na orbicie ziemskiej dzięki samej grawitacji.  
 - Co ciekawe orbita merkurego jest mocno eliptyczna, co widać gołym okiem, prawdopodobnie jest to zgodne z rzeczywistością.
